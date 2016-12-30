@@ -1,0 +1,5 @@
+# Metadata files
+.metadata/
+LookActiveService/.settings/*
+LookActiveService/.classpath
+LookActiveService/.project
