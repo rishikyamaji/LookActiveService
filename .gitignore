@@ -1,6 +1,7 @@
 # Metadata files
 .metadata/
 /Servers/
+.recommenders/
 LookActiveService/.settings/*
 LookActiveService/.classpath
 LookActiveService/.project
